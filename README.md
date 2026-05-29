@@ -73,8 +73,10 @@ Key points:
 
 ## MODEL GRAPH
 *(Insert IV characteristics graph and optical power plots here)*
+<img width="1086" height="1365" alt="598238791-f614fec9-4114-4e2b-baca-503abd8ddeba" src="https://github.com/user-attachments/assets/d50b95ba-7713-4c2c-be11-4010b354c83a" />
 
 ---
+<img width="1285" height="1600" alt="598238854-75f6a2b9-8af7-40ed-a9be-4c7c72f2d842" src="https://github.com/user-attachments/assets/67689ff0-78c0-4d3e-9223-8a69c5118e13" />
 
 ## RESULT
 - The VI characteristics of the fiber optic LED and LASER were studied.  
